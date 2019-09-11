@@ -6,7 +6,7 @@
 
     throw new Error('No existe un nombre para ese Usuario');
 
-    return 'Fernando';
+    return 'Carlos';
 }; */
 
 let getNombre = () => {
